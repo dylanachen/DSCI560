@@ -14,12 +14,11 @@ This lab demonstrates basic web scraping and data filtering using BeautifulSoup 
 
 ### 1. Create and activate a virtual environment
 
-'''bash
+bash
 python3 -m venv venv
 source venv/bin/activate
 
 pip install beautifulsoup4 selenium
-'''
 
 ### 2. Install Python Dependencies
 
